@@ -1,6 +1,6 @@
 title: "vitamiin's blog"
 author: "vitamiin"
-description: "A small low-level devlopment and reverse engineering blog"
+description: "A small low-level development and reverse engineering blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
