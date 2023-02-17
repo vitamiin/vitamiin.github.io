@@ -1,0 +1,22 @@
+baseURL: http://vitamiin.github.io/
+languageCode: en-us
+title: vitamiin
+theme: "PaperMod"
+
+params:
+    homeInfoParams:
+        Title: Hi there 👋
+        Content: This is a small blog mainly about low level programming & reverse engineering
+
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/vitamiin"
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search
+      weight: 10
